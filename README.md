@@ -39,3 +39,5 @@ As 30 características incluem medições como o tamanho, textura e compactaçã
 ## Comparação dos Modelos
 
 A **Random Forest** tem uma eficiência maior falando em precisão geral e F1-score por utilizar múltiplas árvores de decisão, o que reduz o risco de overfitting comparado à Árvore de Decisão única.
+![image](https://github.com/user-attachments/assets/6f3041cd-a61e-4280-a88d-a59f4b688831)
+
