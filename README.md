@@ -38,7 +38,4 @@ As 30 características incluem medições como o tamanho, textura e compactaçã
 
 ## Comparação dos Modelos
 
-A **Random Forest** mostrou-se mais eficaz em termos de precisão geral e F1-score devido ao uso de múltiplas árvores de decisão, o que reduz o risco de overfitting comparado à Árvore de Decisão única.
-
-### Conclusão
-O modelo **Random Forest** apresentou melhor desempenho geral para este conjunto de dados. Com uma precisão geral de **[0.9707602339181286]**, ele se mostrou mais robusto e consistente para a tarefa de classificação do câncer de mama. A Árvore de Decisão, embora mais simples, ainda alcançou resultados razoáveis com uma precisão de **[0.9415204678362573]**.
+A **Random Forest** tem uma eficiência maior falando em precisão geral e F1-score por utilizar múltiplas árvores de decisão, o que reduz o risco de overfitting comparado à Árvore de Decisão única.
